@@ -1,3 +1,4 @@
+<img  src="https://github.com/asmitsharp/asmitsharp/blob/main/cover.png">
 
 <h1 align="center">Hi 👋, I'm Asmit Singh</h1>
 <h3 align="center">I write code, build communities and love to interact with people around.</h3>
