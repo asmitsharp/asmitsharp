@@ -1,17 +1,13 @@
 <img  src="https://github.com/asmitsharp/asmitsharp/blob/main/cover.png">
 
 <h1 align="center">Hi 👋, I'm Asmit Singh</h1>
-<h3 align="center">I write code, build communities and love to interact with people around.</h3>
 
-- 🌱 I’m currently learning **React and Devops**
+- 🌱 I’m currently learning **Node.Js, Cloud, Next.Js and Devops**
 
-- 👯 I’m looking to collaborate on **studComm**
-
-- 💬 Ask me about **react, javascript,devops**
+- 💬 Ask me about **Javascript, Node.js, Devops**
 
 - 📫 How to reach me **ashmitsingh068@gmail.com**
 
-- ⚡ Fun fact **My dream home would be a Tree House**
 
 ---
 
