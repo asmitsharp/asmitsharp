@@ -19,13 +19,3 @@
 ---
 
 ---
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=asmitsharp&show_icons=true&theme=dark&locale=en" alt="asmitsharp" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=asmitsharp&theme=dark" alt="asmitsharp" />
-</p>
-
-<h3 align="center">- Profile Visits -</h3>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/asmitsharp/count.svg">
-</p>
