@@ -59,7 +59,7 @@ Server-side video processing application with Node.js.
 
 ## 📊 GitHub Stats
 
-![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashmitsharp&show_icons=true&theme=radical)
+![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmitsharp&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
 
